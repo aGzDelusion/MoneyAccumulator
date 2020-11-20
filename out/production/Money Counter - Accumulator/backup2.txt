@@ -1,0 +1,4 @@
+Total=0.0
+Total=200.0
+Total=510.0
+Total=10510.0
